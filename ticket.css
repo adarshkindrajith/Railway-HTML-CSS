@@ -1,0 +1,112 @@
+body{
+    background-image: url(./jpg.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.a1{
+    color: rgb(243, 239, 239);
+    width: 25%;
+    position: absolute;
+    height: 50%;
+    margin-top: 13%;
+    margin-left:34% ;    
+    /* backdrop-filter: blur(10px); */
+    border-radius: 20px;
+    color: black;
+}
+/* .a3{
+    position: absolute;
+    left: 38%;
+    top: 10%;
+    border-radius: 20px;
+    border-style: hidden;
+} */
+.a2{
+    position: absolute;
+    left: 5%;
+    top: 10%;
+    border-radius: 20px;
+    border-style: hidden;
+}
+.a4{
+    position: absolute;
+    left: 5%;
+    top: 35%;
+    border-radius: 20px;
+    border-style: hidden;
+
+}
+/* .a5{
+    position: absolute;
+    left: 38%;
+    top: 35%;
+    border-radius: 20px;
+    border-style: hidden;
+
+} */
+.a6{
+    position: absolute;
+    left: 4%;
+    top: 68%;
+    border-radius: 20px;
+    border-style: hidden;
+    width: 90%;
+    height: 25%;
+    text-align:center;
+    background-color: rgb(35, 196, 142);
+}
+.a9{
+    position: absolute;
+    background-color: aliceblue;
+    width: 101.5%;
+    left: -4%;
+    margin-top:-0.6%;
+    margin-left: -1%;
+    padding: 20px 30px;    
+    
+}
+.a9 a{
+    margin-left: 150px;
+    text-decoration: none;
+    font-size: 200%;
+    color: black;
+    text-align:justify;
+}
+.a3{
+    margin-top: 4%;
+    margin-left: 10%;
+    border-radius: 20px;
+    padding: 25px 100px;
+    border-style: hidden;
+    font-size: larger;
+}
+.bb{
+    margin-top: 6%;
+    margin-left: 60%;
+    border-radius: 10px;
+    width: 30%;
+    position: absolute;
+    height: 10%;
+    padding: 1px 5px;
+    font-size: medium;
+}
+.b1{
+    color: rgb(245, 248, 250);
+    position: absolute;
+    top: 90%;
+    left: 25%;
+    font-size: larger;
+}
+.a6{
+    position: absolute;
+    left: 15%;
+    top: 105%;
+    width: 115%;
+    height: 10%;
+    font-size: larger;
+
+}
+.a6:hover{
+    background-color: rgb(109, 224, 224);
+}

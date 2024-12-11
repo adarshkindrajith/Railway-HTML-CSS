@@ -1,0 +1,57 @@
+body{
+    position: absolute;
+    background-image: url(./daniil-silantev-hjODrLxv55E-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.a5 a{
+    margin-left: 146px;
+    text-decoration: none;
+    font-size: 200%;
+    color: black;
+    
+    
+}
+.a5{
+    background-color: aliceblue;
+    width: 98%;
+    margin-left: -1%;
+    margin-top: -1%;    
+    padding: 20px 30px;
+    
+}
+
+.a2{
+    position: absolute;
+    width: 70%;
+    height: 10%;
+    top: 60%;
+    left: 8%;
+    border-radius: 10px;
+    border-style: hidden;
+    padding: 10px 20px;
+}
+.aa{
+    position: absolute;
+    margin-top: 15%;
+    left: 37%;
+    font-size:170%;
+    color: aliceblue;
+
+}
+.bb{
+    position: absolute;
+    top: 90%;
+    left: 33%;
+    width: 30%;
+    height: 16%;
+    border-radius: 30px;
+    font-size: medium;
+    border-style: hidden;
+    background-color: rgb(218, 229, 231);
+    color: rgb(14, 13, 13);
+}
+.aa button:hover{
+    background-color: rgb(45, 140, 218);
+}

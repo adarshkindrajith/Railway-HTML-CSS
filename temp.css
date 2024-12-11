@@ -1,0 +1,17 @@
+/* .a1{
+    color: black;
+    cursor: pointer;
+}
+.a1::after{
+    background-color: black;
+    transition-timing-function: 0.5s;
+    transform: scale(1px);
+}
+.a1:hover{
+    transform: scale(1px);  
+}
+.a2{
+    width: 5%;
+    margin-left: 0%;
+    margin-top: -1.5%;
+} */

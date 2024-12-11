@@ -1,0 +1,70 @@
+body{
+
+    background-image: url(./360_F_859874995_vPc6aQp16WrNRei1su52kn13i6tdYgoE.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.a3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+    color: bisque;
+    font-style: normal;
+    font-size: 500%;
+}
+.a5{
+    position: absolute;
+    background-color: aliceblue;
+    width: 101.5%;
+    left: -4%;
+    margin-top:-0.6%;
+    margin-left: -1%;
+    padding: 20px 30px;        
+
+}
+.a5 a{
+    margin-left: 150px;
+    text-align: justify;
+    text-decoration: none;
+    font-size: 200%;
+    color: black;
+
+} 
+        
+
+.a4{
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    width: 30%;
+    height: 20%;
+    border-radius: 30px;
+    background-color:  rgb(226, 226, 245);
+    border-style: hidden;
+    font-size:larger;
+    padding: 0px 5px;
+}
+.a4 a{
+    color: #161515;
+    text-align: justify;
+    text-decoration: none;
+
+}
+.a1 button:hover{
+    background-color:rgb(149, 190, 243);
+
+}
+.a1{
+    border: 1px solid;
+    position: absolute;
+    top: 20%;
+    height: 40%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 7.7%;
+    backdrop-filter: blur(3px);
+    border-radius: 200px;
+    border-style: hidden;
+}

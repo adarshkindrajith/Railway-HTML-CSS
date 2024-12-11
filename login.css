@@ -1,0 +1,83 @@
+body{
+    background-image: url(./railway-1555348_640.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-x: center;
+    margin-top: 13%;
+    
+}
+.a1{
+    position: absolute;
+    left: 37%;
+    border: 1px solid;
+    width: 30%;
+    height: 45%;
+    border-radius: 30px;
+    border-left: 30%;
+    text-align: center;
+    backdrop-filter:blur(17px);
+
+}
+.a4{
+    position: absolute;
+    border-radius: 30px;
+    border-style: hidden;
+    width: 70%;
+    height: 10%;
+    top: 72%;
+    left: 15%;
+    background-color: aliceblue;
+
+}
+.a4:hover{
+    background-color:rgb(180, 169, 243);
+}
+.a5{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+}
+.a6{
+    position: absolute;
+    border-radius: 20px;
+    margin-left: -27%;
+    margin-top: -5%;
+    border-style: hidden;
+    width: 40%;
+    height: -5%;
+    padding: 10px 20px;
+}
+.a7{
+    position: absolute;
+    border-radius: 20px;
+    margin-left: -27%;
+    margin-top:2%;
+    border-style: hidden;
+    width: 40%;
+    height: -5%;
+    padding: 10px 20px;
+}
+#b1{
+    margin-top: 10%;
+    margin-left: -3%;
+}
+.a9{
+    position: absolute;
+    top: -64%;
+    background-color: aliceblue;
+    width: 340%;
+    /* height: 10%; */
+    left: -130%;
+    text-align: justify;
+    padding: 20px 30px;
+}
+.a9 a{
+    margin-left: 150px;
+    text-decoration: none;
+    font-size: 200%;
+    color: black;
+}
+.pp{
+    font-size:200%;
+    margin-top: 5%;
+}
